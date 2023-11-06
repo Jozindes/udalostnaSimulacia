@@ -1,6 +1,6 @@
 **Semestrálna práca z predmetu Diskrétna simulácia**
 
-_Ide o udalostne orientovanú simuláciu kozmetického salónu, ktorú bolo potrebné navrhnúť, naprogramovať, vykonať s danou simuláciou experimenty a spracovať štatistiky._
+_Ide o udalostne orientovanú simuláciu (udalosť plánuje ďalšiu udalosť) kozmetického salónu, ktorú bolo potrebné navrhnúť, naprogramovať, vykonať s danou simuláciou experimenty a spracovať štatistiky._
 
 
 **Popis simulácie:**
@@ -15,3 +15,5 @@ Potom zákazník odchádza zo systému._
 
 _Každý zákazník má záujem o konkrétne služby s určitou pravdepodobnosťou._
 _Trvanie jednotlivých úkonov sú hodnoty získavané z generátorov hodnôt (rovnomerné, exponenciálne, trojuholníkové rozdelenie)._
+
+**AKÉKOĽVEK KOPÍROVANIE ČASTÍ ALEBO CELÉHO ZDROJOVÉHO KÓDU JE ZAKÁZANÉ!**
